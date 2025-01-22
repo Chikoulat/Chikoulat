@@ -48,7 +48,6 @@ Welcome to my GitHub profile! I'm a Full Stack Developer with a passion for buil
 # Github Stats <br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chikoulat&layout=compact&theme=radical&) <br/>
 ![Mohamed Amine's GitHub stats](https://github-readme-stats.vercel.app/api?username=chikoulat&show_icons=true&theme=radical)
-![Mohamed Amine's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chikoulat&theme=radical) <br/>
 ![Mohamed Amine's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=chikoulat&theme=radical&column=4)
 
 # 📫 Let's Connect <br/>
