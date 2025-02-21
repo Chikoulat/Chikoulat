@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm a Full Stack Developer with a passion for building impactful projects and crafting seamless user experiences.
 
 # 💡 About Me
-🌍 Based in: Algeria <br/>
+🌍 Based in: Boumerdes, Algeria <br/>
 👨‍💻 Current Role: Frontend Developer at Divatech <br/>
 📜 Background: 7 years in Oil & Gas, now thriving in web development <br/>
 🎯 Career Goal: Delivering innovative solutions and scalable projects <br/>
