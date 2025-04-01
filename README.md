@@ -4,15 +4,16 @@ Welcome to my GitHub profile! I'm a Full Stack Developer with a passion for buil
 
 # 💡 About Me
 🌍 Based in: Boumerdes, Algeria <br/>
-👨‍💻 Current Role: Frontend Developer at Divatech <br/>
+👨‍💻 Current Role: Frontend Developer at Deeplyfe.inc <br/>
 📜 Background: 7 years in Oil & Gas, now thriving in web development <br/>
-🎯 Career Goal: Delivering innovative solutions and scalable projects <br/>
+🎯 Career Goal: Delivering innovative solutions and scalable projects <br/>.
 
 # 🛠 ️ My Tech Stack
 
 ## Languages <br/>
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)
 
@@ -22,6 +23,7 @@ Welcome to my GitHub profile! I'm a Full Stack Developer with a passion for buil
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white)
 ![Sass](https://img.shields.io/badge/-Sass-CC6699?logo=sass&logoColor=white)
@@ -53,9 +55,8 @@ Welcome to my GitHub profile! I'm a Full Stack Developer with a passion for buil
 # 📫 Let's Connect <br/>
 📧 Email: boumendjelmohamine@gmail.com<br/>
 🔗 LinkedIn: https://www.linkedin.com/in/mohamed-amine-boumendjel-4633ba68/ <br/>
-🔗 Portfolio: https://portfolio-mohamed-amine.vercel.app/ <br/>
-🔗 Twitter: https://x.com/chikoulat <br/>
-
+📁 Portfolio: https://portfolio-mohamed-amine.vercel.app/ <br/>
+🐦 Twitter: https://x.com/chikoulat <br/>
 
 # 🤖 Fun Fact <br/>
 I transitioned from solving technical challenges in the Oil & Gas industry to building solutions through code. Challenges are just puzzles waiting to be solved!
